@@ -1,0 +1,1 @@
+This repository is a project training both KMeans clustering and KNN classification models to predict if an instance is a stroke instance based on biometric features. The .pdf file is the paper with our findings. The other files are our jupyter notebooks downloaded as .html files.
